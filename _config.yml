@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Hieu Nguyen
 tagline:          'My personal blog of tech and life.'
 description:      'My personal blog of tech and life.'
-url:              https://hieunguyentrung.com/
+url:              https://hieunguyentrung.com
 
 author:
   name:           'Hieu Nguyen'
-  url:            https://hieunguyentrung.com/
+  url:            https://hieunguyentrung.com
 
 paginate:         5
 google_analytics: 'UA-91839003-1'
