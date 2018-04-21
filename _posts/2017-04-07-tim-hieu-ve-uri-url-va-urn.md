@@ -1,9 +1,8 @@
 ---
 layout: post
-comments: true
 title: Tìm hiểu về URI, URL và URN
-tags: url uri
-summary: xxx
+tags: uri url urn
+summary: Tìm hiểu về URI, URL và URN
 ---
 
 Cá nhân mình, và mình tin là còn rất nhiều người đã từng phân vân các khái niệm URI, URL và URN. Nhân tiện tìm hiểu về chúng, mình có viết lại theo ý hiểu của mình để làm tài liệu tra cứu sau này cũng như giúp các bạn phần nào hiểu được sự khác nhau của chúng.
