@@ -58,3 +58,4 @@ let x1 = {
 
 let x2 = JSON.parse(JSON.stringify(x1));
 ```
+Lưu lý nhỏ là cách này chỉ sử dụng khi giá trị của các key có kiểu nguyên thuỷ hoặc những object đơn giản như mảng hay hash. Nếu giá trị key là object phức tạp, việc chuyển sang JSON và parse trở lại sẽ đôi phần bị biến dạng kiểu dữ liệu, gây lên lỗi không mong muốn.
